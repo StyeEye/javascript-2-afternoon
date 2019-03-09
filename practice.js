@@ -15,8 +15,12 @@
 */
 
 //Code here
+const me = {
+  name: "Its a secret",
+  age: 111
+}
 
-
+alert(me.name);
 
 ////////// PROBLEM 2 //////////
 
@@ -26,8 +30,14 @@
 */
 
 //Code here
-
-
+const favoriteThings = {
+  band: `bandsaw`,
+  food: `carbon-based`,
+  person: `bob ross`,
+  book: `Secret of the Lizard People`,
+  movie: `twister`,
+  holiday: `crimbo`
+}
 
 /*
   After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
