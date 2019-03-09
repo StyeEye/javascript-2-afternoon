@@ -16,7 +16,7 @@
 
 //Code here
 const me = {
-  name: "Its a secret",
+  name: `Its a secret`,
   age: 111
 }
 
@@ -44,7 +44,8 @@ const favoriteThings = {
 */
 
 //Code here
-
+favoriteThings.car = `smart cars`;
+favoriteThings.brand = `my brand`;
 
 
 /*
@@ -52,8 +53,8 @@ const favoriteThings = {
 */
 
 //Code here
-
-
+favoriteThings.food = `Chicken Nuggets`;
+favoriteThings.book = `Harry Potter`;
 
 ////////// PROBLEM 3 //////////
 
